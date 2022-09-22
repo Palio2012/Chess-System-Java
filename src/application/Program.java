@@ -20,6 +20,7 @@ public class Program {
 
 
 
+
         while (!chessMatch.getCheckMate ()) {
             try {
                 UI.clearScreen();
